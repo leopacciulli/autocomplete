@@ -6,7 +6,7 @@ This is the amazing brand new autocomplete, as you can see in the image below, y
 
 ## First clone the project
 
- `git clone https://github.com/`
+ `git clone git@github.com:Oraci/autocomplete.git`
 
 
 ## To run the project
